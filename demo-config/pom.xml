@@ -19,6 +19,11 @@
             <version>1.4.4.RELEASE</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-config-server</artifactId>
+        </dependency>
+
     </dependencies>
     <build>
         <plugins>
